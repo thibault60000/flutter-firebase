@@ -1,16 +1,6 @@
-# firebase_flutter
+# Firebase with Flutter 
+Introduction
 
-A new Flutter project.
+![Capture d’écran 2022-09-14 à 13 54 45](https://user-images.githubusercontent.com/18366294/190146979-6257d237-ff6c-453e-983d-be04b2a87677.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture d’écran 2022-09-14 à 13 54 54](https://user-images.githubusercontent.com/18366294/190147009-ffaccd9d-a638-43b1-95ed-e0462339a268.png)
